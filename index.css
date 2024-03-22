@@ -297,6 +297,15 @@ opacity: 0.5;
     align-items: center;
     font-size:14px;
 }
+
+.line i:hover{
+    margin-left:10px;
+}
+
+.line i:hover{
+    opacity:1 ;  
+}
+
 .line div{
     margin-left:10px;
 }
