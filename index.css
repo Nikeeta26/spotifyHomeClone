@@ -369,3 +369,20 @@ margin-left:20rem;
     opacity: 0.4;
 }
 
+.footer_link_content{
+    display: flex;
+   justify-content: space-between;
+   margin-left:10px;
+   font-size:0.7rem;
+   padding-top:3rem;
+   opacity: 1;
+   font-weight: 900;
+  
+}
+.sport{
+    margin-top: 3rem;
+    opacity: 0.4;
+    font-size:0.8rem;
+   font-weight: 900;
+   margin-left:5rem;
+}
